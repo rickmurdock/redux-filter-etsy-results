@@ -9,7 +9,7 @@ class ProductList extends Component {
       const {products} = this.props;
       const productElements = products.map(element => {
         return (
-          <Product product={element} key={element.listingId}/>
+          <Product product={element} key={element.listing_id}/>
         );
       });
         // Create a dynamically populated list of `<Product />` components
