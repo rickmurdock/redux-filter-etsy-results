@@ -2,6 +2,12 @@
 
 Modeling state and filtering data with a reducer
 
+---
+
+### View the finished project: http://filter-etsy-results.surge.sh/
+
+---
+
 ## Getting Started  
 
 Download Starter Files
